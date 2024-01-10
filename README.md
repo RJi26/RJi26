@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/262/26205.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.wallpapertip.com/wmimgs/52-527660_776444-title-anime-your-name-kimi-no-nawa.jpg)]
 
 <h1 align="center">Hi 👋, I'm Richard Ji</h1>
 <h3 align="center">A passionate biomedical computer vision student based in Canberra</h3>
