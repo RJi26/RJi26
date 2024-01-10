@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [NeuroSentry](https://github.com/RJi26/NeuroSentry)
 
-- 🌱 I’m currently learning **Vision Transformers**
+- 🌱 I’m currently learning about **Vision Transformers (ViT)**
 
 - 💬 Ask me about **Computer Vision and AI**
 
