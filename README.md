@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wallpapertip.com/wmimgs/52-527660_776444-title-anime-your-name-kimi-no-nawa.jpg)]
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYG-Ta1J4-vTga4nj0qT2ZoEJ43NwkuIo1tVZJCjT2xwlhhBHEYH04-JSwQ5sKgqEHFOLbbpJ0WebWlKaUx5g5pZhOAShAUbLzaXXfa2EM4dtHoij8yiiHR92Ee6GhAA_9RASAGdwtKLDfexsR5Is0Sdwr21Tv90jxK8Aa--c0S7cRkjBkBthrEnHOawy3/s900-rw/studio-ghibli-hd-wallpapers-5.png)](https://rji26.github.io/PersonalWebsite/)
 
 <h1 align="center">Hi 👋, I'm Richard Ji</h1>
 <h3 align="center">A passionate biomedical computer vision student based in Canberra</h3>
